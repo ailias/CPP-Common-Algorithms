@@ -46,8 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+# Added by Ailias
 common/.idea
 common/main.cpp
 common/CMakeLists.txt
 common/test.cpp
+*.bak
